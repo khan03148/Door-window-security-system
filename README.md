@@ -8,7 +8,7 @@ Description:
 
 In this project we developed a security system to monitor a door or window. This system should determine, whether the door/window is closed or open. If one tries to opened the door without entering pin it will alarm . Moreover, the alarm state can be change using keypad.
 
-Components Required:
+Components Required:<br>
 1: (2)Arduino uno board<br>
 2: (2)Keypad<br>
 3: (2)Ultrasonic sensor<br>
