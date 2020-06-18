@@ -16,5 +16,5 @@ Components Required:<br>
 5: 9V battery
 
 
-![Alt text](relative/path/to/door security.png?raw=true "Title")
-github.com/khan03148/Door-window-security-system/blob/master/door%20security.png
+![Alt text](khan03148/Door-window-security-system/blob/master/door security.png
+.png?raw=true "Title")
