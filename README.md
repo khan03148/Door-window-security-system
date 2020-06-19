@@ -16,6 +16,6 @@ In this project we developed a security system to monitor a door or window. This
 5: 9V battery<br>
 6: Buzzer
 
-
+##SCHEMAtICS##
 ![door security](https://user-images.githubusercontent.com/43823144/85083154-35603480-b1d1-11ea-9e8f-d9c96beba820.png)
 
