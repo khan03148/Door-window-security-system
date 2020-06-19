@@ -13,7 +13,8 @@ In this project we developed a security system to monitor a door or window. This
 2: (2)Keypad<br>
 3: (2)Ultrasonic sensor<br>
 4  wires<br>
-5: 9V battery
+5: 9V battery<br>
+6: Buzzer
 
 
 ![door security](https://user-images.githubusercontent.com/43823144/85083154-35603480-b1d1-11ea-9e8f-d9c96beba820.png)
