@@ -17,5 +17,10 @@ In this project we developed a security system to monitor a door or window. This
 6: Buzzer
 
 ##SCHEMAtICS##
-![door security](https://user-images.githubusercontent.com/43823144/85083154-35603480-b1d1-11ea-9e8f-d9c96beba820.png)
+![door security](https://user-images.githubusercontent.com/43823144/85083154-35603480-b1d1-11ea-9e8f-d9c96beba820.png)<br>
+
+![WhatsApp Image 2020-07-08 at 00 58 46](https://user-images.githubusercontent.com/43823144/86853283-8075b500-c0b6-11ea-9c75-5d416acca696.jpeg)
+
+
+
 
